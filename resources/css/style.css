@@ -1,0 +1,22 @@
+html{
+    background-color: black;
+    color: white;
+    font-family: Verdana, sans-serif;
+    text-align: center;
+}
+
+
+.title {
+    font-weight: normal;
+    font-size: 50px;
+}
+
+.download{
+    color: aquamarine;
+    font-size: 16px;
+}
+
+footer{
+    text-align: right;
+    color: gray;
+}
